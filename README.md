@@ -47,3 +47,33 @@ Wig-laundry-website/
     ├── straightener.png
     ├── SHAMPOO.png
     └── conditioner.jpeg
+## 💻 What I Practised
+
+Through this project, I practised:
+
+- Building a website with semantic HTML
+- Creating responsive layouts with CSS
+- Adding JavaScript interactions
+- Working with forms and user input
+- Integrating WhatsApp enquiries
+- Organising website assets
+- Improving accessibility
+- Using Git and GitHub
+- Deploying a website with GitHub Pages
+
+## 🚀 Future Improvements
+
+- Add a backend for storing bookings
+- Add email booking confirmations
+- Create an admin dashboard
+- Add online payment functionality
+- Connect the website to a database
+- Replace example testimonials with verified client reviews
+
+## 📌 Project Purpose
+
+This project is part of my practical portfolio and demonstrates my growing skills in web development, problem solving, responsive design and using GitHub to manage and deploy projects.
+
+## ⚠️ Disclaimer
+
+This is a portfolio/business website concept. Any testimonial content should be replaced with genuine client reviews before being used as a real business website.
